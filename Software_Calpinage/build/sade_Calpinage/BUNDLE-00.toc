@@ -1,0 +1,3 @@
+([('sade_Calpinage',
+   '/Users/romingo/Desktop/STAGE/Software_Calpinage/dist/sade_Calpinage',
+   'EXECUTABLE')],)
