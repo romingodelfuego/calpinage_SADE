@@ -12,7 +12,7 @@ Télécharger le dossier >> Rendez-vous dans le dossier "Software_Calpinage" >> 
 Télécharger le dossier >> Rendez-vous dans le dossier "Software_Calpinage" >> Ouvrez un terminal pour ce dossier >>
 
 Sur ce terminal rentrez ces instructions: 
-  pip install -U pyinstaller \
+  \pip install -U pyinstaller \
   pyinstaller --name sade_Calpinage --onefile --icon=sade.ico --windowed \
   --add-data 'data':'data' \
   --add-data 'gui':'gui' \
